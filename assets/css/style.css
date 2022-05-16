@@ -16,16 +16,18 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+/* Consolidated header h1 to h1  */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Changed to match id */
 #seo {
     color: #d9dcd6;
 }
 
-/* Changed the div in header to nav */
+/* Changed the div, and header nav, to nav */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/* Changed to match id */
 #hero {
     height: 800px;
     width: 100%;
@@ -87,7 +90,8 @@ main {
     max-height: 200px;
 }
 
-.seo-rep-social h2 {
+/* Consolidated .seo-rep-social h2 to h2 */
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -109,7 +113,8 @@ main {
     color: #ffffff;
 }
 
-.lead-aware-cost h3 {
+/* Consolidated .lead-aware-cost h3 to h3 */
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -127,6 +132,7 @@ footer {
     text-align: center;
 }
 
-footer h4 {
+/* Consolidated footer h4 to h4 */
+h4 {
     font-size: 20px;
 }
