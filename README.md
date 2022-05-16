@@ -8,6 +8,8 @@
 
 ## Description
 
+Corrected formatting for better readability. Changed all div tags to more appropriate semantic tags, using header, main, article, section, and nav. Adjusted classes and ids for consolidation of styles and for best practices. 
+
 ## Visuals
 
 ![Horiseon Screenshot](./assets/images/Horiseon-Search-Engine-Optimization.png)
