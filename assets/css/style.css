@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed header class to header element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,12 +21,12 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 #seo {
+#seo {
     color: #d9dcd6;
 }
 
-/* Replaced the div in header with nav */
-header nav {
+/* Changed the div in header to nav */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,16 +35,10 @@ header nav {
     
 }
 
-header nav ul {
-    list-style-type: none;
-}
-
-header nav ul li {
+/* Consolidated the a element */
+a {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -71,7 +66,7 @@ p {
     margin-left: 25px;
 }
 
-#content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -96,7 +91,7 @@ p {
     font-size: 36px;
 }
 
-.benefits {
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
