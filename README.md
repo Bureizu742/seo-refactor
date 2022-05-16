@@ -17,4 +17,5 @@ Corrected formatting for better readability. Changed all div tags to more approp
 ## Resources
 
 [Live Site](https://bureizu742.github.io/seo-refactor/)
+
 [Repository](https://github.com/Bureizu742/seo-refactor)
